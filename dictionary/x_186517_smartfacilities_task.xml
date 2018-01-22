@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_task" label="Smartfacilities Task" max_length="40" name="x_186517_smartfacilities_task" sizeclass="17" type="collection"/>
+</database>

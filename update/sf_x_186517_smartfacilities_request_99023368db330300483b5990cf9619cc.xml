@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sf_x_186517_smartfacilities_request">
+    <sf_x_186517_smartfacilities_request action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <automatic_condition/>
+        <automatic_roles/>
+        <automatic_script/>
+        <automatic_string/>
+        <business_rule/>
+        <change_client_script/>
+        <client_script/>
+        <comment/>
+        <derived_from/>
+        <end_text>6</end_text>
+        <ending_state display_value="Resolved">06207f6cdb330300483b5990cf9619ef</ending_state>
+        <event/>
+        <event_rule/>
+        <mandatory_fields/>
+        <manual_condition/>
+        <manual_roles/>
+        <manual_script><![CDATA[action.setRedirectURL(current);]]></manual_script>
+        <manual_string>new global.SMTask().showCloseCompleteRequest(current)</manual_string>
+        <name>Resolve</name>
+        <not_mandatory/>
+        <not_read_only/>
+        <not_visible/>
+        <number>SF0010029</number>
+        <override/>
+        <read_only_fields/>
+        <roles/>
+        <start_text>18</start_text>
+        <starting_state display_value="Work In Progress">8122545cdb330300483b5990cf9619b4</starting_state>
+        <sys_class_name>sf_x_186517_smartfacilities_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-18 19:04:58</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>99023368db330300483b5990cf9619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resolve</sys_name>
+        <sys_package display_value="SmartFacilities" source="x_186517_smartfm">0822145cdb330300483b5990cf96193a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SmartFacilities">0822145cdb330300483b5990cf96193a</sys_scope>
+        <sys_update_name>sf_x_186517_smartfacilities_request_99023368db330300483b5990cf9619cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-18 19:04:58</sys_updated_on>
+        <table>x_186517_smartfacilities_request</table>
+        <translated_ending_state>Resolved</translated_ending_state>
+        <translated_starting_state>Work In Progress</translated_starting_state>
+        <ui_action display_value="Resolve">54523b6cdb330300483b5990cf961907</ui_action>
+        <visible_fields/>
+        <work_notes/>
+        <work_notes_rule/>
+    </sf_x_186517_smartfacilities_request>
+</record_update>

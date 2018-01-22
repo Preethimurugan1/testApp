@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>fb22185cdb330300483b5990cf961996</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_group">
+    <sys_user_group action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cost_center/>
+        <default_assignee/>
+        <description/>
+        <email/>
+        <exclude_manager>false</exclude_manager>
+        <include_members>false</include_members>
+        <manager/>
+        <name>SmartFacilities Assignment</name>
+        <parent/>
+        <roles/>
+        <source/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-17 08:07:14</sys_created_on>
+        <sys_id>fb22185cdb330300483b5990cf961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-17 08:07:14</sys_updated_on>
+        <type>bf22185cdb330300483b5990cf961995</type>
+        <vendors/>
+    </sys_user_group>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-17 08:08:02</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>2b52109cdb330300483b5990cf961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SmartFacilities Assignment</sys_name>
+        <sys_package display_value="SmartFacilities" source="x_186517_smartfm">0822145cdb330300483b5990cf96193a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SmartFacilities">0822145cdb330300483b5990cf96193a</sys_scope>
+        <sys_update_name>sys_metadata_link_2b52109cdb330300483b5990cf961961</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-17 08:08:02</sys_updated_on>
+        <tablename>sys_user_group</tablename>
+    </sys_metadata_link>
+</record_update>

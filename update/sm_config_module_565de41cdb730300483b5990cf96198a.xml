@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config_module">
+    <sm_config_module action="INSERT_OR_UPDATE">
+        <app_name display_value="SmartFacilities">4652dc5cdb330300483b5990cf961936</app_name>
+        <aspect>geolocation_maps</aspect>
+        <associated_mobile_module display_value="My Map">6a52dc5cdb330300483b5990cf961991</associated_mobile_module>
+        <associated_module/>
+        <on>true</on>
+        <sys_class_name>sm_config_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-17 10:05:55</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>565de41cdb730300483b5990cf96198a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4652dc5cdb330300483b5990cf961936</sys_name>
+        <sys_package display_value="SmartFacilities" source="x_186517_smartfm">0822145cdb330300483b5990cf96193a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SmartFacilities">0822145cdb330300483b5990cf96193a</sys_scope>
+        <sys_update_name>sm_config_module_565de41cdb730300483b5990cf96198a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-17 10:05:55</sys_updated_on>
+    </sm_config_module>
+</record_update>

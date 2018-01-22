@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Request for new security badge">4a061810db730300483b5990cf961920</sc_cat_item>
+        <sc_category display_value="Security Requests">24631c9cdb330300483b5990cf96197d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-17 08:24:03</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>52065450db730300483b5990cf961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Security Requests.Request for new security badge</sys_name>
+        <sys_package display_value="SmartFacilities" source="x_186517_smartfm">0822145cdb330300483b5990cf96193a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SmartFacilities">0822145cdb330300483b5990cf96193a</sys_scope>
+        <sys_update_name>sc_cat_item_category_52065450db730300483b5990cf961949</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-17 08:24:03</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
